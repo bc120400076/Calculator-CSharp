@@ -1,0 +1,9 @@
+D:\Dropbox\Exercise\VS 2010 Projects\Calculator\CalculatorCsharp\bin\Release\CalculatorCsharp.exe
+D:\Dropbox\Exercise\VS 2010 Projects\Calculator\CalculatorCsharp\bin\Release\CalculatorCsharp.pdb
+D:\Dropbox\Exercise\VS 2010 Projects\Calculator\CalculatorCsharp\obj\x86\Release\ResolveAssemblyReference.cache
+D:\Dropbox\Exercise\VS 2010 Projects\Calculator\CalculatorCsharp\obj\x86\Release\CalculatorCsharp.Form1.resources
+D:\Dropbox\Exercise\VS 2010 Projects\Calculator\CalculatorCsharp\obj\x86\Release\CalculatorCsharp.Properties.Resources.resources
+D:\Dropbox\Exercise\VS 2010 Projects\Calculator\CalculatorCsharp\obj\x86\Release\GenerateResource.read.1.tlog
+D:\Dropbox\Exercise\VS 2010 Projects\Calculator\CalculatorCsharp\obj\x86\Release\GenerateResource.write.1.tlog
+D:\Dropbox\Exercise\VS 2010 Projects\Calculator\CalculatorCsharp\obj\x86\Release\CalculatorCsharp.exe
+D:\Dropbox\Exercise\VS 2010 Projects\Calculator\CalculatorCsharp\obj\x86\Release\CalculatorCsharp.pdb
