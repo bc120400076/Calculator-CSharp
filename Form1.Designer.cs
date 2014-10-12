@@ -228,6 +228,7 @@
             this.buttonDot.TabIndex = 16;
             this.buttonDot.Text = ".";
             this.buttonDot.UseVisualStyleBackColor = true;
+            this.buttonDot.Click += new System.EventHandler(this.buttonDot_Click);
             // 
             // buttonClear
             // 
@@ -238,6 +239,7 @@
             this.buttonClear.TabIndex = 17;
             this.buttonClear.Text = "C";
             this.buttonClear.UseVisualStyleBackColor = true;
+            this.buttonClear.Click += new System.EventHandler(this.buttonClear_Click);
             // 
             // Form1
             // 

@@ -14,3 +14,10 @@ D:\Dropbox\Exercise\VS 2010 Projects\Calculator\CalculatorCsharp\obj\x86\Debug\C
 D:\Dropbox\Exercise\VS 2010 Projects\Calculator\CalculatorCsharp\obj\x86\Debug\CalculatorCsharp.exe
 D:\Dropbox\Exercise\VS 2010 Projects\Calculator\CalculatorCsharp\obj\x86\Debug\CalculatorCsharp.pdb
 D:\Dropbox\Exercise\VS 2010 Projects\Calculator\CalculatorCsharp\obj\x86\Debug\CalculatorCsharp.csproj.GenerateResource.Cache
+J:\GIT\bc120400076\Calculator-CSharp\branches\Version-0.0.0.1\obj\x86\Debug\CalculatorCsharp.exe
+J:\GIT\bc120400076\Calculator-CSharp\branches\Version-0.0.0.1\obj\x86\Debug\CalculatorCsharp.pdb
+J:\GIT\bc120400076\Calculator-CSharp\branches\Version-0.0.0.1\bin\Debug\CalculatorCsharp.exe
+J:\GIT\bc120400076\Calculator-CSharp\branches\Version-0.0.0.1\bin\Debug\CalculatorCsharp.pdb
+J:\GIT\bc120400076\Calculator-CSharp\branches\Version-0.0.0.1\obj\x86\Debug\CalculatorCsharp.Form1.resources
+J:\GIT\bc120400076\Calculator-CSharp\branches\Version-0.0.0.1\obj\x86\Debug\CalculatorCsharp.Properties.Resources.resources
+J:\GIT\bc120400076\Calculator-CSharp\branches\Version-0.0.0.1\obj\x86\Debug\CalculatorCsharp.csproj.GenerateResource.Cache

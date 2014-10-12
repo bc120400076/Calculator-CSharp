@@ -75,5 +75,15 @@ namespace CalculatorCsharp
         {
             textBox1.Text = textBox1.Text + button9.Text;
         }
+
+        private void buttonClear_Click(object sender, EventArgs e)
+        {
+            //textBox1.Text = "0";
+        }
+
+        private void buttonDot_Click(object sender, EventArgs e)
+        {
+            textBox1.Text = textBox1.Text + buttonDot.Text;
+        }
     }
 }
